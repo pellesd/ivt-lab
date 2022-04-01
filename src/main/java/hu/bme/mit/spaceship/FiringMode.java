@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-//szevasz branch-A
+//szevasz branch-B
 /**
 * Weapon firing mode enumeration
 *
